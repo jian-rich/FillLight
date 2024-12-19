@@ -1,5 +1,7 @@
 # FillLight
-技术支持
+
+# Technical Support
+
 # Product Introduction
 
 **Fill Light: Atmosphere Maker** is a practical tool for photography lighting, which can be used to adjust lighting effects when paired with fill light devices. It allows you to control the color temperature, brightness, RGB lighting, and various lighting special effects of the lights.  
